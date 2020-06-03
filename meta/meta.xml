@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>F**kU-WiiU</name>
+  <coder>VCoding</coder>
+  <version>v1.0</version>
+  <short_description>A homebrew that says "Fuck you."on the screen of your Nintendo WiiU</short_description> 
+  <long_description>Press A to say "Fuck you."
+Press B to say "Bitch"
+Press X to say "Shut up"
+Press Y to clear the screen
+  </long_description> 
+  <url>https://github.com/vincent-coding/FuckU-WiiU</url>
+  <category>tool</category>
+</app>
