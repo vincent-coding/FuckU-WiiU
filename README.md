@@ -7,4 +7,4 @@ ALL THE FEATURES:<br />
 - Press X to say "Shut up."
 - Press Y to clear the screen
 <br />
-*A button operates a secret function, would you find it?*
+<i>A button operates a secret function, would you find it?</i>
